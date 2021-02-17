@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>726672663455-f23sob32g9ulmtcofmtaqm7g5pkmrafo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.726672663455-f23sob32g9ulmtcofmtaqm7g5pkmrafo</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>726672663455-8ms3ln7utlppn03vbrljuhkgpomv8s9t.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBDKXG8-PI6JE6T2GqNm6RdmZxJif0DjsI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>726672663455</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.romcoach</string>
+	<key>PROJECT_ID</key>
+	<string>rom-coach</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rom-coach.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:726672663455:ios:7d88e784e3f9c48c0c13aa</string>
+	<key>DATABASE_URL</key>
+	<string>https://rom-coach.firebaseio.com</string>
+</dict>
+</plist>
